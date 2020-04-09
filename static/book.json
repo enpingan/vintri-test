@@ -1,0 +1,141 @@
+{
+  "audience": "General",
+  "authors": [
+    "Norman, Donald A."
+  ],
+  "book_designer": "Nicole Caputo",
+  "collection": [
+    "Ergonomics",
+    "Manufacturing",
+    "Industrial Management"
+  ],
+  "content": "Nonfiction",
+  "contributions": null,
+  "copyright_date": 2013,
+  "cover_artist": "Jaques Carelman - \"Coffe Pot for Masochists\"",
+  "physical_format": "Paperback",
+  "date_published": "Nov. 5, 2013",
+  "dewey_decimal": null,
+  "physical_dimensions": "8.2 x 6.5 x 1 inches",
+  "edition": 5,
+  "edition_name": "Revised and Expanded Edition",
+  "excerpt": "The Design of Everyday Things is a powerful primer on how -- and why -- some products satisfy customers while others only frustrate them.",
+  "first_publish_year": 2013,
+  "genre": [
+    "art",
+    "business",
+    "psychology",
+    "nonfiction"
+  ],
+  "isbn": 81023404,
+  "isbn13": "978-0465050659",
+  "language": "english",
+  "latest_revision": 5,
+  "ocaid": "OL25726927M",
+  "overview": "The Design of Everyday Things shows that good, usable design is possible. The rules are simple, make things visible, exploit natural relationships that couple function and control, and make intelligent use of constraints. The goal, guide the user effortlessly to the right action on the right control at the right time.",
+  "pages": 368,
+  "pagination": "cm",
+  "printer": "Basic Books",
+  "publish_country": "United States of America",
+  "publish_places": "New York, New York",
+  "publisher": "Basic Books, A Member of the Perseus Books Group",
+  "reading_level": 14,
+  "region": "North America",
+  "reviews": [
+    {
+      "quote": "Even classics can be updated and improved ... Highly recommended.",
+      "by": "Choice"
+    },
+    {
+      "quote": "This book changed the field of design. As the pace of technological change accelerates, the principles in this book are increasingly important. The new examples and ideas about design and product development make it essential reading.",
+      "by": "Patrick Whitney, Dean, Institute of Design, and Steelcase - Robert C. Pew Professor of Design, Illinois Institute of Technology"
+    },
+    {
+      "quote": "Twenty-five years ago The Design of Everyday Things was instrumental in orienting my approach to design. With this latest revised and expanded edition, Don Norman has given me a host of new ideas to explore as well as reminding me of the fundamental principles of great and meaningful design. Part operating manual for designers and part manifesto on the power of designing for people, The Design of Everyday Things is even more relevant today than it was when first published.",
+      "by": "Tim Brown, CEO, IDEO, and author of Change by Design"
+    },
+    {
+      "quote": "Design may be our top competitive edge. This book is a joy--fun and of the utmost importance.",
+      "by": "Tom Peters, author of In Search of Excellence"
+    }
+  ],
+  "subjects": [
+    "design",
+    "nonfiction",
+    "business",
+    "psychology"
+  ],
+  "subtitle": null,
+  "tag_line": "The ultimate guide to human-centered design",
+  "tags": [
+    "software",
+    "apple",
+    "design",
+    "UI/UX",
+    "usability"
+  ],
+  "title": "The design of everyday things",
+  "title_long": "Psychology of everyday things The design of everyday things Revised and expanded edition",
+  "website": "www.jnd.org",
+  "weight": [
+    "12.8 ounces",
+    "322 g"
+  ],
+  "original_price": "17.99 US",
+  "purchased_date": "2015-03-06T00:00:00.000Z",
+  "current_branch": "Bodleian Library",
+  "current_status": "on loan",
+  "due_date": "2021-03-02T00:00:00.000Z",
+  "hold_count": 2,
+  "number_of_copies": 1,
+  "loan_history": [
+    {
+      "check_out": {
+        "check_out_by": "031249576-7",
+        "check_out_date": "2020-01-01T00:00:00.000Z",
+        "check_out_location": "Bodleian Library",
+        "check_out_condition": 10
+      }
+    },
+    {
+      "check_in": {
+        "check_in_date": "2021-02-11T00:00:00.000Z",
+        "check_in_location": "Bodleian Library",
+        "check_in_condition": 10,
+        "check_in_librarian_id": "brianjk_03591"
+      }
+    },
+    {
+      "check_out": {
+        "check_out_by": "000001468-9",
+        "check_out_date": "2018-01-04T00:00:00.000Z",
+        "check_out_location": "Troy Public Library",
+        "check_out_condition": 10
+      }
+    },
+    {
+      "check_in": {
+        "check_in_date": "2018-06-03T00:00:00.000Z",
+        "check_in_location": "Troy Public Library",
+        "check_in_condition": 10,
+        "check_in_librarian_id": "juliusc_00074"
+      }
+    },
+    {
+      "check_out": {
+        "check_out_by": "001165596-1",
+        "check_out_date": "2017-02-03T00:00:00.000Z",
+        "check_out_location": "Bibliotheca Alexandrina",
+        "check_out_condition": 10
+      }
+    },
+    {
+      "check_in": {
+        "check_in_date": "2017-08-02T00:00:00.000Z",
+        "check_in_location": "Bibliotheca Alexandrina",
+        "check_in_condition": 10,
+        "check_in_librarian_id": "alextg_00599"
+      }
+    }
+  ]
+}
